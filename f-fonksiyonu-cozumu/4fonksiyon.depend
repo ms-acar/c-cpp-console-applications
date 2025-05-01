@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735076305 source:c:\users\acarm\desktop\ccc\4fonksiyon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1740951793 source:c:\users\acer\desktop\c projeleri\header_denemesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myHeader.h"
+	<math.h>
+	<string.h>
+
+1740952567 c:\users\acer\desktop\c projeleri\header_denemesi\myheader.h
+

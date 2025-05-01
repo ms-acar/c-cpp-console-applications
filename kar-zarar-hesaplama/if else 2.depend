@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1736637037 source:c:\users\acer\desktop\if else 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

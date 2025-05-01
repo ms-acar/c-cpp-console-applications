@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730125335 source:c:\users\acarm\desktop\ccc\isci\main.c
+	<stdio.h>
+	<stdlib.h>
+

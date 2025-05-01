@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730332041 source:c:\users\acarm\desktop\ccc\gasoline\main.c
+	<stdio.h>
+	<stdlib.h>
+
