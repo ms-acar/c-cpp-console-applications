@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1741960432 source:c:\users\acer\desktop\c projeleri\odev1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+

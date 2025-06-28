@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1748608799 source:c:\users\acer\desktop\cpp projeleri\sifirayakinlik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
